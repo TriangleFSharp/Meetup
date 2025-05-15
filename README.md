@@ -1,7 +1,6 @@
 # Meetup Scheduling
 
-Going forward we'll schedule new meetups here. If you're interested please subscribe to change notification in this repo.
-
+Going forward we'll schedule new meetups here. If you're interested in getting notified of new meetings just click the `Watch` button above.
 http://meet.jit.si/TriangleFSharp
 
 # F# Monthly Meetup June 3rd
