@@ -10,3 +10,6 @@ http://meet.jit.si/TriangleFSharp
 - 100 F# Mistakes and How to Avoid them
 
 If you have a good idea for a meetup send a PR
+
+
+![image](https://github.com/user-attachments/assets/5f2cc15d-7ae6-441e-aa3f-c28ea93836d3)
