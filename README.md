@@ -12,7 +12,8 @@ http://meet.jit.si/TriangleFSharp
 If you have a good idea for a meetup send a PR
 
 
-Here is our LinkedIn group.
+
+# LinkedIn Group
 https://www.linkedin.com/groups/13252030/
 
 
